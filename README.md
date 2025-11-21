@@ -17,7 +17,7 @@
  <li>📦 Algunos de mis últimos trabajos están en  
      <a href="https://github.com/TecnicoD?tab=repositories">Mis Repositorios</a>
  </li>
- <li>🌐 Portafolio (en construcción): <a href="https://tecnicod.github.io">https://tecnicod.github.io</a></li>
+ <li>🌐 Portafolio (en construcción): <a href="https://github.com/TecnicoD/portafolio/tree/main">https://github.com/TecnicoD/portafolio/tree/main</a></li>
  <li>💼 Conectemos en LinkedIn:  
      <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/">linkedin.com/in/dante-rodriguez-020856233/</a>
  </li>
