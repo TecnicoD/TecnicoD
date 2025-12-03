@@ -1,7 +1,9 @@
 ![Hi I'm Dante](https://github.com/TecnicoD/TecnicoD/blob/main/banner.gif)
 
 <div align="center">
- <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+ <video src="grok-video-972bb761-baff-48ba-9f70-3a565ed3cda3 (1).mp4" controls></video>
+
 </div>
 
 <h3 align="left">
