@@ -1,6 +1,6 @@
-<!-- BANNER ANIMADO PRINCIPAL -->
+<!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="https://github.com/TecnicoD/TecnicoD/blob/main/banner.gif" alt="Hi I'm Dante">
+  <img src="https://raw.githubusercontent.com/TecnicoD/TecnicoD/main/banner.gif" alt="Hi I'm Dante">
 </div>
 
 <br>
@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/jj8TfxB4/linkedin-banner-dante-rodriguez-(2).png" width="850" alt="LinkedIn Banner">
 </div>
+
 
 ---
 
