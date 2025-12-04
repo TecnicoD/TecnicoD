@@ -10,9 +10,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Dante%20Rodr%C3%ADguez-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn - Dante Rodr\u00edguez" loading="lazy" />
   </a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=TecnicoD" alt="TecnicoD" /> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TecnicoD&layout=compact"/>
   </p>
 </div>
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TecnicoD&theme=github_dark)
+  
+ </div>
 Un poco sobre mí 
 
 - 👨‍💻 Desarrollador con experiencia en **Python, C#, .NET, HTML, CSS, JavaScript, Unity y Pygame**.
