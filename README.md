@@ -1,7 +1,7 @@
 <!-- IMG PRINCIPAL -->
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k1YmpxZm5qb3p1MmQ5ZmpxaWV5a2gycGo4N2ZjY2hsMTZta2E2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r6vs6u9NngyiANYCRI/giphy.gif"/>
 
-👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
+###👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
 
 ### 💻 Desarrollador | Automatización | Soporte IT
 <!-- BANNER LINKEDIN-->
@@ -24,16 +24,6 @@ Un poco sobre mí
   👉 https://github.com/TecnicoD/portafolio/tree/main
 - 💼 LinkedIn:  
   👉 https://www.linkedin.com/in/dante-rodriguez-020856233/
-
----
-
-## 📊 Lenguajes más usados
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecnicoD&layout=compact" alt="Top languages" loading="lazy"/>
-</div>
-
----
 
 ## 🎭 Idiomas
 - 🇪🇸 Español (Nativo)
