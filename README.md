@@ -4,7 +4,7 @@
 </div>
 
 <br>
-
+[![linkedin-banner-dante-rodriguez-(2).png](https://i.postimg.cc/jj8TfxB4/linkedin-banner-dante-rodriguez-(2).png)](https://postimg.cc/zLR4Zrzy)
 <!-- BANNER LINKEDIN (replaced large external image with a small shield badge for reliability and performance) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/" target="_blank" rel="noopener">
@@ -12,7 +12,7 @@
   </a>
   
 </div>
-[![linkedin-banner-dante-rodriguez-(2).png](https://i.postimg.cc/jj8TfxB4/linkedin-banner-dante-rodriguez-(2).png)](https://postimg.cc/zLR4Zrzy)
+
 ---
 
 ## 👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
