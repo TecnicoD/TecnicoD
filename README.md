@@ -10,8 +10,9 @@
   <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Dante%20Rodr%C3%ADguez-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn - Dante Rodr\u00edguez" loading="lazy" />
   </a>
+  
 </div>
-
+[![linkedin-banner-dante-rodriguez-(2).png](https://i.postimg.cc/jj8TfxB4/linkedin-banner-dante-rodriguez-(2).png)](https://postimg.cc/zLR4Zrzy)
 ---
 
 ## 👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
