@@ -1,24 +1,17 @@
 <!-- IMG PRINCIPAL -->
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k1YmpxZm5qb3p1MmQ5ZmpxaWV5a2gycGo4N2ZjY2hsMTZta2E2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r6vs6u9NngyiANYCRI/giphy.gif"/>
 
+👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
 
-<br>
-
-<!-- BANNER LINKEDIN (replaced large external image with a small shield badge for reliability and performance) -->
+### 💻 Desarrollador | Automatización | Soporte IT
+<!-- BANNER LINKEDIN-->
 <div align="center">
   <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Dante%20Rodr%C3%ADguez-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn - Dante Rodr\u00edguez" loading="lazy" />
   </a>
   
 </div>
-
----
-
-## 👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
-
-### 💻 Desarrollador | Automatización | Soporte IT
-
-Un poco sobre mí 👀
+Un poco sobre mí 
 
 - 👨‍💻 Desarrollador con experiencia en **Python, C#, .NET, HTML, CSS, JavaScript, Unity y Pygame**.
 - 💬 Desarrollo de **chatbots** (especialmente para Telegram) y experiencia en **soporte técnico**.
