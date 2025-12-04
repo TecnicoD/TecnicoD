@@ -1,10 +1,9 @@
 <!-- BANNER PRINCIPAL -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TecnicoD/TecnicoD/main/banner.gif" alt="Hi I'm Dante" style="max-width:900px;width:100%;height:auto;" loading="lazy"/>
-</div>
+<img align="center" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k1YmpxZm5qb3p1MmQ5ZmpxaWV5a2gycGo4N2ZjY2hsMTZta2E2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r6vs6u9NngyiANYCRI/giphy.gif"/>
+
 
 <br>
-[![linkedin_banner_dante_rodriguez_(2).png](https://i.postimg.cc/jj8TfxB4/linkedin_banner_dante_rodriguez_(2).png)](https://postimg.cc/zLR4Zrzy)
+
 <!-- BANNER LINKEDIN (replaced large external image with a small shield badge for reliability and performance) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/" target="_blank" rel="noopener">
