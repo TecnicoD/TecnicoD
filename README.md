@@ -1,9 +1,9 @@
 <!-- IMG PRINCIPAL -->
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k1YmpxZm5qb3p1MmQ5ZmpxaWV5a2gycGo4N2ZjY2hsMTZta2E2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r6vs6u9NngyiANYCRI/giphy.gif"/>
 
-###👋 ¡Hola! Soy **Dante Nicolás Rodríguez**
+<h1>👋 ¡Hola! Soy Dante Nicolás Rodríguez</h1>
 
-### 💻 Desarrollador | Automatización | Soporte IT
+<h2> 💻 Desarrollador | Automatización | Soporte IT</h2>
 <!-- BANNER LINKEDIN-->
 <div align="center">
   <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/" target="_blank" rel="noopener">
