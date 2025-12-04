@@ -9,7 +9,9 @@
   <a href="https://www.linkedin.com/in/dante-rodriguez-020856233/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Dante%20Rodr%C3%ADguez-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn - Dante Rodr\u00edguez" loading="lazy" />
   </a>
-  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=TecnicoD" alt="TecnicoD" /> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TecnicoD&layout=compact"/>
+  </p>
 </div>
 Un poco sobre mí 
 
@@ -24,6 +26,8 @@ Un poco sobre mí
   👉 https://github.com/TecnicoD/portafolio/tree/main
 - 💼 LinkedIn:  
   👉 https://www.linkedin.com/in/dante-rodriguez-020856233/
+
+
 
 ## 🎭 Idiomas
 - 🇪🇸 Español (Nativo)
